@@ -184,8 +184,8 @@ add("dreyer-farms.myshopify.com", "TRUE", 1, "Farm stand/retail location", "$200
 add("shopheadwatersoutdoors.com", "TRUE", 1, "Outdoor adventure retail/outfitter location", "$500K-$1.5M (Low confidence)", "1 outdoor outfitter shop; kayaking, hiking, outdoor adventure gear and tours", "Yes", "—")
 add("darlinbrand.com", "FALSE", 0, "N/A (unable to verify — domain may be different from Darlin' Lingerie)", "$200K-$500K (Low confidence)", "Unable to verify retail presence for this specific domain", "Yes", "—")
 add("aquaterraspas.com", "FALSE", 0, "N/A (sold through Costco and online only; no brand showroom)", "$5M-$15M (Low confidence)", "Hot tub manufacturer; sold through Costco and online; no brand-owned showroom", "Yes", "—")
-add("www.ezvacuum.com", "TRUE", 1, "Physical vacuum store location", "$1M-$3M (Low confidence)", "1 vacuum cleaner retail store; vacuums, parts, accessories, repair services", "Yes", "—")
-add("rework-furniture.com", "TRUE", 1, "Office furniture showroom", "$1M-$3M (Low confidence)", "1 office furniture showroom; refurbished and new office furniture", "Yes", "—")
+add("www.ezvacuum.com", "TRUE", 1, "8645 Phoenix Dr, Manassas, VA 20121 (warehouse hours Mon-Fri 9am-5pm EST; local pickup available)", "$1M-$3M (Low confidence)", "1 vacuum cleaner retail/warehouse location in Manassas VA; vacuums, bags, belts, filters, parts", "Yes", "—")
+add("rework-furniture.com", "TRUE", 1, "7550 Roosevelt Rd, Forest Park, IL 60130 (Mon-Fri 9am-5pm, Sat 10am-3pm)", "$1M-$3M (Low confidence)", "1 office furniture showroom in Forest Park IL; refurbished and new office furniture", "Yes", "—")
 add("sportscards.com", "FALSE", 0, "N/A", "$2M-$5M (Low confidence)", "Online sports card retailer; trading cards, collectibles", "Yes", "—")
 add("www.306sportscards.com", "TRUE", 1, "Physical sports card shop", "$200K-$500K (Low confidence)", "1 sports card shop; trading cards, collectibles, memorabilia", "Yes", "—")
 add("souliciousvegankitchen.com", "TRUE", 2, "Orlando, FL; Apopka, FL", "$500K-$1.5M (Low confidence)", "2 vegan restaurant locations in Central Florida; vegan soul food", "Yes", "—")
@@ -292,6 +292,15 @@ add("paperandsupply.com", "FALSE", 0, "N/A", "$100K-$300K (Low confidence)", "On
 add("noirleather.com", "TRUE", 1, "Physical fetish/alternative fashion store", "$500K-$1.5M (Low confidence)", "1 fetish/alternative fashion retail store; BDSM gear, leather apparel, fetish products", "Review Needed", "Sells BDSM/fetish products; sex toys and adult novelty items are allowed per Shopify Payments; verify no sexually explicit content")
 add("sendingyoualoha.com", "FALSE", 0, "N/A", "$200K-$500K (Low confidence)", "Online Hawaiian gift box retailer; gift boxes with Hawaiian products", "Yes", "—")
 add("www.facetory.com", "FALSE", 0, "N/A (sold in Whole Foods — third-party only)", "$5M-$15M (Medium confidence)", "Korean beauty sheet mask brand; sold through Whole Foods, Amazon, and other retailers", "Yes", "—")
+
+# --- ADDITIONAL RESEARCH FINDINGS (ROUND 2) ---
+add("proteinchefs.com", "TRUE", 1, "20 Millwick Drive, North York, Toronto, ON M9L 1Y3", "$1M-$3M (Medium confidence)", "1 meal prep kitchen/pickup location in North York Toronto; meals vacuum-sealed; keto, paleo, vegan, gourmet options", "Yes", "—")
+add("www.mattressinnovations.com", "TRUE", 1, "2935 Miamisburg Centerville Road, Miamisburg, OH 45342", "$1M-$3M (Medium confidence)", "1 mattress showroom in Miamisburg OH; 50-80 mattress models; same-day delivery; Mon-Fri 10am-7pm, Sat 10am-5pm", "Yes", "—")
+add("mattressgrove.com", "TRUE", 1, "401 N Raleigh St, Greensboro, NC 27401", "$1M-$3M (Medium confidence)", "1 mattress store in Greensboro NC; Spring Air, Chattam & Wells brands; free white-glove delivery in NC", "Yes", "—")
+add("allegorygoods.com", "TRUE", 1, "354 Pembroke Ave, Joliet, IL 60433", "$200K-$500K (Low confidence)", "1 handcrafted goods workshop/retail in Joliet IL; writing instruments, leather goods, journals, bags", "Yes", "—")
+add("legatorguitars.com", "TRUE", 1, "7764 San Fernando Rd #10A, Sun Valley, CA 91352 (showroom Mon-Fri 9am-5pm)", "$2M-$5M (Medium confidence)", "1 guitar showroom in Sun Valley CA; electric guitars $500-$1500; manufacturer showroom open weekdays", "Yes", "—")
+add("www.southernwillowmarket.com", "TRUE", 1, "370 Furys Ferry Rd, Martinez, GA 30907", "$500K-$1.5M (Low confidence)", "1 home decor/gift shop in Martinez GA; home decor, floral, apparel, gifts, candles, bath & body", "Yes", "—")
+add("dakotadirtcoffee.com", "FALSE", 0, "N/A (HQ in Milnor, ND; Buckin' Bean Coffee Shop is a partner, not owned)", "$200K-$500K (Low confidence)", "Online coffee brand based in North Dakota; whole bean, ground, K-cups ~$16/bag", "Yes", "—")
 
 # Additional businesses that need entries (from keyword scans and remaining list)
 add("hugsleep.com", "FALSE", 0, "N/A", "$5M-$15M (Medium confidence)", "Online weighted blanket/sleep product brand; Hug Sleep pod $60-$100; DTC brand seen on Shark Tank", "Yes", "—")
